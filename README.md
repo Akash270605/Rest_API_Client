@@ -21,7 +21,7 @@ This project is a lightweight and efficient Java-based REST API client designed 
 The application takes a city name as input (via command-line arguments or default value) and performs a two-step process:
 
 * **Geocoding** – Converts the city name into geographic coordinates (latitude and longitude).
-*** Weather Fetching** – Uses these coordinates to retrieve current weather data from a public weather API.
+* **Weather Fetching** – Uses these coordinates to retrieve current weather data from a public weather API.
 
 The final output is displayed in a well-formatted table, providing key weather metrics such as temperature, humidity, wind speed, and perceived temperature.
 
